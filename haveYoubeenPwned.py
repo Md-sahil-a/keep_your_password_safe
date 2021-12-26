@@ -35,7 +35,7 @@ def main(args):
             print(f'{passwords} was found on number of counts {count} make your pass very strong ')
         else:
             print(f'{passwords} was not found dont worry')
-    return 'done'        
+    return 'Finally done'        
 
 
 main(sys.argv[1:])
